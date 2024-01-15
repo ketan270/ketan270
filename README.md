@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ketan Sharma</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+![logo](https://github.com/ketan270/ketan270/blob/main/Make%20your%20README.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketan270&label=Profile%20views&color=0e75b6&style=flat" alt="ketan270" /> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **C Programming**
 
 - 👨‍💻 All of my projects are available at www.linkedin.com/in/ketan-sharma-a40432203
-
 
 - 📫 How to reach me **ketansharma2005@gmail.com**
 
