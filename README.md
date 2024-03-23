@@ -1,5 +1,7 @@
+
+[![](https://visitcount.itsvg.in/api?id=ketan270&icon=6&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
-- 🌱 I’m currently learning **C Programming**<br><br>- 👨‍💻 All of my projects are available at www.linkedin.com/in/ketan-sharma-a40432203<br><br>- 📫 How to reach me **ketansharma2005@gmail.com**
+-🌱 I’m currently learning **C Programming**<br><br> - 👨‍💻 All of my projects are available at www.linkedin.com/in/ketan-sharma-a40432203<br><br>- 📫 How to reach me **ketansharma2005@gmail.com**
 
 
 ## 🌐 Socials:
@@ -10,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ketan270&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ketan270&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ketan270&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -19,6 +21,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ketan270&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
