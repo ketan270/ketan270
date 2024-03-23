@@ -1,6 +1,4 @@
 ![Aesthetic Twitter Header](https://github.com/ketan270/ketan270/assets/146920220/98f64d46-ada3-431a-a4a3-6e980bc67eea)
-
-[![](https://visitcount.itsvg.in/api?id=ketan270&icon=6&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
 -🌱 I’m currently learning **C Programming**<br><br> - 👨‍💻 All of my projects are available at www.linkedin.com/in/ketan-sharma-a40432203<br><br>- 📫 How to reach me **ketansharma2005@gmail.com**
 
