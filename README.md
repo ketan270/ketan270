@@ -1,3 +1,10 @@
+<h1 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="">Ketan Sharma!</a></b>
+        </samp>
+</h1>
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&random=false&width=900&height=80&lines=Enthusiastic+Full-Stack+Developer)](https://git.io/typing-svg)
 # 💫 About Me:
 -🌱 I’m currently learning **C Programming**<br><br> - 👨‍💻 All of my projects are available at www.linkedin.com/in/ketan-sharma-a40432203<br><br>- 📫 How to reach me **ketansharma2005@gmail.com**
