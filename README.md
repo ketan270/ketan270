@@ -31,7 +31,7 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=ketan270&theme=omni&hide_border=false&include_all_commits=false&count_private=false" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketan270&theme=omni&hide_border=false" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketan2120&theme=omni&hide_border=false" width="400">
 
 ## 🐍 My Contributions:
 <img src="https://raw.githubusercontent.com/ketan270/ketan270/output/snake.svg" alt="Snake animation" />
