@@ -73,10 +73,6 @@
 <a href="https://www.hackerrank.com/certificates/c26ef9d24fb5" target="_blank">
 <img src="https://github.com/ketan270/ketan270/assets/146920220/65685f92-7037-4ce5-b816-8fa890b50189" alt="SQL(Advanced)" width=200px"></a>
 
-<p align="center">
-<a href="https://Kavithma-Thushal.github.io/Kavithma-Thushal/Github/Certificates/certificates.html" target="_blank">
-  <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/button.png" alt="More Certificates" style="height: 35px !important; width: 120px !important">
-</a>
 </p>
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
