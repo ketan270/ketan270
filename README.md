@@ -54,7 +54,7 @@
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
-## 💫 Certificates
+## 💫 Certificates:
 
 <a href="https://open.uom.lk/lms/mod/customcert/view.php?id=697" target="_blank">
 <img src="https://github.com/ketan270/ketan270/assets/146920220/cdf0f876-9fb0-4680-830e-d138069cc0c2" alt="Web_Design_for_Beginners" width=200px"></a>
