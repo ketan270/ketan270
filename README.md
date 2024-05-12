@@ -52,6 +52,34 @@
 <br/>
 </p>
 
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+## 💫 Certificates
+
+<a href="https://open.uom.lk/lms/mod/customcert/view.php?id=697" target="_blank">
+<img src="https://github.com/ketan270/ketan270/assets/146920220/cdf0f876-9fb0-4680-830e-d138069cc0c2" alt="Web_Design_for_Beginners" width=200px"></a>
+<a href="https://open.uom.lk/lms/mod/customcert/view.php?id=839" target="_blank">
+<img src="https://github.com/ketan270/ketan270/assets/146920220/35bfc775-259f-40d1-8517-8d660821f016" alt="Front-End_Web_Development" width=200px"></a>
+<a href="https://open.uom.lk/lms/mod/customcert/view.php?id=675" target="_blank">
+<img src="https://github.com/ketan270/ketan270/assets/146920220/5cf85f4c-9f22-4cb0-b051-271e54dfc03c" alt="Python_for_Beginners" width=200px"></a>
+<a href="https://www.hackerrank.com/certificates/a75456cf0924" target="_blank">
+<img src="https://github.com/ketan270/ketan270/assets/146920220/7c68e604-03f8-45ab-a13e-8a441322df83" alt="React(Basic)" width=200px"></a>
+<a href="https://www.hackerrank.com/certificates/d842215d0cf4" target="_blank">
+<img src="https://github.com/ketan270/ketan270/assets/146920220/994d53d0-ddcb-46c6-b4f4-ba37900f63eb" alt="Java(Basic)"  width=200px"></a>
+<a href="https://www.hackerrank.com/certificates/c6c4b1b4f024" target="_blank">
+<img src="https://github.com/ketan270/ketan270/assets/146920220/19c7778a-d5cd-4b8d-8b24-a15b5c89594b" alt="SQL(Basic)" width=200px"></a>
+<a href="https://www.hackerrank.com/certificates/0c7ce2dd6376" target="_blank">
+<img src="https://github.com/ketan270/ketan270/assets/146920220/f6546313-e41e-4475-9f31-c84759fda5c8" alt="SQL(Intermediate)" width=200px"></a>
+<a href="https://www.hackerrank.com/certificates/c26ef9d24fb5" target="_blank">
+<img src="https://github.com/ketan270/ketan270/assets/146920220/65685f92-7037-4ce5-b816-8fa890b50189" alt="SQL(Advanced)" width=200px"></a>
+
+<p align="center">
+<a href="https://Kavithma-Thushal.github.io/Kavithma-Thushal/Github/Certificates/certificates.html" target="_blank">
+  <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/button.png" alt="More Certificates" style="height: 35px !important; width: 120px !important">
+</a>
+</p>
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=ketan270&theme=omni&hide_border=false&include_all_commits=false&count_private=false" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketan270&theme=omni&hide_border=false" width="400">
