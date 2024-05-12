@@ -10,7 +10,7 @@
 # 💫 About Me:
 -🌱 I’m currently learning **C Programming**<br><br> - 👨‍💻 All of my projects are available at www.linkedin.com/in/ketan-sharma-a40432203<br><br>- 📫 How to reach me **ketansharma2005@gmail.com**
 
-## 📜 My Portfolio that is worth looking at (Click the portal to go):<br>
+## 📜 My Portfolio that is worth looking at <a href="" target="_blank">(Click the portal to go):</a><br>
   
   <a href="https://personal-portfolio-blue-alpha.vercel.app/"><img id="portal" height="100" src="https://media.tenor.com/fWA2N8CPWEkAAAAi/sonic-mania.gif"></a>
 
