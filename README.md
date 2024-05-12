@@ -71,7 +71,7 @@
 <a href="https://www.hackerrank.com/certificates/0c7ce2dd6376" target="_blank">
 <img src="https://github.com/ketan270/ketan270/assets/146920220/bbca9816-597e-4314-b85c-3a6c23c96dab" alt="SQL(Intermediate)" width=200px"></a>
 <a href="https://www.hackerrank.com/certificates/c26ef9d24fb5" target="_blank">
-<img src="https://github.com/ketan270/ketan270/assets/146920220/8e509995-bf8e-4e89-a40c-1f4cd4ec702c" alt="SQL(Advanced)" width=200px"></a>
+<img src="https://github.com/ketan270/ketan270/assets/146920220/8eba8895-240d-4c88-8249-309db7986c8c)" alt="SQL(Advanced)" width=200px"></a>
 
 </p>
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
