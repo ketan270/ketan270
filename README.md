@@ -77,7 +77,7 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=ketan270&theme=omni&hide_border=false&include_all_commits=false&count_private=false" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=omni&preferLogin=true">    <img  alt="ketan270's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ketan270?cardType=level&theme=omni&preferLogin=true"  height="170"  width="400">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketan270&theme=omni&hide_border=false" width="400">
 </br>
 
