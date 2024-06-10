@@ -56,21 +56,14 @@
 
 ## 💫 Certificates:
 
-<a href="https://open.uom.lk/lms/mod/customcert/view.php?id=697" target="_blank">
+<a>
 <img src="https://github.com/ketan270/ketan270/assets/146920220/cdf0f876-9fb0-4680-830e-d138069cc0c2" alt="Web_Design_for_Beginners" width=200px"></a>
-<a href="https://open.uom.lk/lms/mod/customcert/view.php?id=839" target="_blank">
 <img src="https://github.com/ketan270/ketan270/assets/146920220/35bfc775-259f-40d1-8517-8d660821f016" alt="Front-End_Web_Development" width=200px"></a>
-<a href="https://open.uom.lk/lms/mod/customcert/view.php?id=675" target="_blank">
 <img src="https://github.com/ketan270/ketan270/assets/146920220/5c69b253-0036-4cdc-9626-4299ce7c06b9" alt="Python_for_Beginners" width=200px"></a>
-<a href="https://www.hackerrank.com/certificates/a75456cf0924" target="_blank">
 <img src="https://github.com/ketan270/ketan270/assets/146920220/5742cad5-2361-4a7f-af40-16dee391b9d0" alt="React(Basic)" width=200px"></a>
-<a href="https://www.hackerrank.com/certificates/d842215d0cf4" target="_blank">
 <img src="https://github.com/ketan270/ketan270/assets/146920220/c6a8e60d-ac19-4bc6-94b9-823ffcfde5bf" alt="Java(Basic)"  width=200px"></a>
-<a href="https://www.hackerrank.com/certificates/c6c4b1b4f024" target="_blank">
 <img src="https://github.com/ketan270/ketan270/assets/146920220/ff599353-a85b-443e-8f56-df0ca2b532b3" alt="SQL(Basic)" width=200px"></a>
-<a href="https://www.hackerrank.com/certificates/0c7ce2dd6376" target="_blank">
 <img src="https://github.com/ketan270/ketan270/assets/146920220/bbca9816-597e-4314-b85c-3a6c23c96dab" alt="SQL(Intermediate)" width=200px"></a>
-<a href="https://www.hackerrank.com/certificates/c26ef9d24fb5" target="_blank">
 <img src="https://github.com/ketan270/ketan270/assets/146920220/8eba8895-240d-4c88-8249-309db7986c8c)" alt="SQL(Advanced)" width=200px"></a>
 
 </p>
