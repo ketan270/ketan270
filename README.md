@@ -49,8 +49,9 @@
 
 # 📊 GitHub Stats:
 <img  alt="ketan270's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ketan270?cardType=level&theme=omni&preferLogin=true"  height="170"  width="400">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketan270&theme=omni&hide_border=false" width="400">
-</br>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketan270&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="340" />
+
+
 
 ## 🐍 My Contributions:
 <img src="https://raw.githubusercontent.com/ketan270/ketan270/output/snake.svg" alt="Snake animation" />
